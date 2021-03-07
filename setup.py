@@ -12,7 +12,7 @@ setuptools.setup(
     long_description_content_type='text/markdown',
     url='https://github.com/kmierzeje/django-expression-index',
     packages=setuptools.find_packages(),
-    install_requires=['django>=3.0.8'],
+    install_requires=['django>=2.2'],
     classifiers=[
         'Development Status :: 4 - Beta',
         'Environment :: Web Environment',
